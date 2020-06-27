@@ -22,7 +22,7 @@
 
         <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="info-box bg-aqua">
-                <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
+                <span class="info-box-icon"><i class="fa fa-user"></i></span>
                 <div class="info-box-content">
                 <span class="info-box-text">Pendaki</span>
                 <span class="info-box-number">{{$pendaki}}</span>
@@ -38,7 +38,7 @@
             
         <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="info-box bg-green">
-                <span class="info-box-icon"><i class="fa fa-thumbs-o-up"></i></span>
+                <span class="info-box-icon"><i class="fa fa-users"></i></span>
                 <div class="info-box-content">
                 <span class="info-box-text">Regu</span>
                 <span class="info-box-number">{{$regu}}</span>
@@ -54,7 +54,7 @@
 
         <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="info-box bg-yellow">
-                <span class="info-box-icon"><i class="fa fa-calendar"></i></span>
+                <span class="info-box-icon"><i class="fa fa-cubes"></i></span>
                 <div class="info-box-content">
                 <span class="info-box-text">Perlengkapan</span>
                 <span class="info-box-number">{{$perlengkapan}}</span>
@@ -70,7 +70,7 @@
 
         <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="info-box bg-purple">
-                <span class="info-box-icon"><i class="fa fa-calendar"></i></span>
+                <span class="info-box-icon"><i class="fa fa-map"></i></span>
                 <div class="info-box-content">
                 <span class="info-box-text">Jalur</span>
                 <span class="info-box-number">{{$jalur}}</span>
