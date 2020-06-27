@@ -22,15 +22,14 @@
 ### Windows
 - Klik Clone or Download silahkan download zip
 - Pindah kedalam folder /xampp/htdocs dan extrak 
-- Buka Comandline atau bisa menggunakan terminal didalam Visual Studio Code, arahkan ke folder projek dengan ketik
-  " cd /xampp/htdocs/sintak "
 - Ketikan " composer install "
 -   Ubah nama file .env.example menjadi .env
 -   Isi nama database
--   Kembali ke cmd lalu ketik php artisan key:generate (Pada project laravel sintak)
+-   Kembali ke cmd lalu ketik php artisan key:generate
 -   Lalu ketik kembali php artisan migrate --seed
 -   Untuk menjalankan ketik php artisan serve
 
 ### KURANG
 1. Upload file & foto
+
 2. Bilingual
