@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-
+> laravel2020-B-G3
 ##   SISTEM INFORMASI PENDAKIAN GUNUNG SLAMET (SIPGUS)
 
 ## Anggota Kelompok
@@ -28,6 +28,14 @@
 -   Kembali ke cmd lalu ketik php artisan key:generate
 -   Lalu ketik kembali php artisan migrate --seed
 -   Untuk menjalankan ketik php artisan serve
+
+### UPDATE :
+ Untuk menjalankan fitur login forget password melalui email, isi kolom pada file .env.
+ - MAIL_USERNAME="DI ISI EMAIL UNTUK SMTP"
+ - MAIL_PASSWORD="DI ISI PASSWORD"
+ - MAIL_FROM_ADDRESS="DI ISI EMAIL UNTUK SMTP"
+ 
+#### PASTIKAN EMAIL YANG DIGUNAKAN SUDAH DI SETTING UNTUK SMTP!
 
 ### KURANG
 1. Upload file & foto
